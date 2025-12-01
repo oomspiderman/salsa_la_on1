@@ -416,34 +416,39 @@ MOST OF THE TIMING IS RUBBISH BY AI. FIX!!
 
 # Legend
 
-B      ->  Leader / Boy / Man / Gentleman
-BCK    ->  Back
-CB     ->  Cross Body 
-CCW    ->  Counter Clock-wise
-CHROT  ->  Crossed Hands with Leader RH on Top
-CHLOT  ->  Crossed Hands with Leader LH on Top
-CW     ->  Clock-wise
-F      ->  Foot 
-FWD    ->  Forward
-G      ->  Follower / Girl / Lady / Female
-H      ->  Hand 
-HH     ->  Heel Hook
-IP     ->  In Place  
-L      ->  Left 
-LH2LH  ->  Left Hand leader to Left Hand follower 
-LF     ->  Left Foot
-LFIP   ->  Left Foot in Place
-LFSS   ->  Left Foot Side Step  
-LH     ->  Left Hand 
-Prep   -> Preparation step before turn  
-R      ->  Right 
-RF     ->  Right Foot
-RFIP   ->  Right Foot in Place 
-RFSS   ->  Right Foot Side Step 
-RH     ->  Right Hand 
-RH2RH  ->  Right Hand leader to Right Hand follower
-SS     ->  Side Step 
-TL     ->  Turn Left 
-TR     ->  Turn Right
-1/2 TR ->  half a turn right / clockwise (180 deg) 
-1/4 TL ->  quarter turn left / counter clockwise (90 deg) 
+| Abbreviation | Meaning |
+| --- | --- |
+| B | Leader / Boy / Man / Gentleman |
+| BCK | Back |
+| CB | Cross Body |
+| CCW | Counter Clock-wise |
+| CHROT | Crossed Hands with Leader RH on Top |
+| CHLOT | Crossed Hands with Leader LH on Top |
+| CW | Clock-wise |
+| F | Foot |
+| FWD | Forward |
+| G | Follower / Girl / Lady / Female |
+| H | Hand |
+| HH | Heel Hook |
+| IP | In Place |
+| L | Left |
+| L2L | short for Left Hand leader to Left Hand follower | 
+| LH2LH | Left Hand leader to Left Hand follower |
+| LF | Left Foot |
+| LFIP | Left Foot in Place |
+| LFSS | Left Foot Side Step |
+| LH | Left Hand |
+| Prep | Preparation step before turn |
+| R | Right |
+| R2R | short for Right Hand leader to Right Hand follower |
+| RF | Right Foot |
+| RFIP | Right Foot in Place |
+| RFSS | Right Foot Side Step |
+| RH | Right Hand |
+| RH2RH | Right Hand leader to Right Hand follower |
+| SS | Side Step |
+| TL | Turn Left |
+| TR | Turn Right |
+| 1/2 TR | half a turn right / clockwise (180 deg) |
+| 1/4 TL | quarter turn left / counter clockwise (90 deg) |
+
